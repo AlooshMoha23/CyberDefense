@@ -5,13 +5,13 @@ You are a security analyst working for a social media organization. The organiza
 
 After inspecting the organization’s network, you discover four major vulnerabilities. The four vulnerabilities are as follows:
 
-The organization’s employees' share passwords.
+1. The organization’s employees' share passwords.
 
-The admin password for the database is set to the default.
+2. The admin password for the database is set to the default.
 
-The firewalls do not have rules in place to filter traffic coming in and out of the network.
+3. The firewalls do not have rules in place to filter traffic coming in and out of the network.
 
-Multifactor authentication (MFA) is not used. 
+4. Multifactor authentication (MFA) is not used. 
 
 If no action is taken to address these vulnerabilities, the organization is at risk of experiencing another data breach or other attacks in the future. 
 
